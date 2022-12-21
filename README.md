@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I’m currently working on DevOps and Cloud Native tools <br>I’m looking to collaborate on cloud native projects<br>I’m currently learning Kubernetes and development in Rust and Golang<br>Ask me about Kubernetes, Cloud Native, Rust and Golang
+🔭 I’m currently working on DevOps and Cloud Native tools <br>👯 I’m looking to collaborate on cloud native projects<br>🌱 I’m currently learning Kubernetes and development in Rust and Golang<br>💬 Ask me about Kubernetes, Cloud Native, Rust and Golang
 
 
 ## 🌐 Socials:
